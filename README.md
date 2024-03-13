@@ -1,6 +1,6 @@
-# {{Project name}} Automation Framework
+# Automation Framework
 
-This Test Automation framework is designed to {{Project name}}
+This Test Automation framework is designed 
 
 ## Installation
 
@@ -15,7 +15,7 @@ Clone the project
 
 ```
 
-git clone (
+git clone 
 https://github.com/AnilCa1905/wdio_test.git
 
 ```
