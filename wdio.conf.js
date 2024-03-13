@@ -68,6 +68,7 @@ export const config = {
             // 5 instances get started at a time.
             'maxInstances': 1,
             'browserName': 'chrome',
+            'browserVersion': '120',
             'acceptInsecureCerts': true,
             'goog:chromeOptions': {
                 args: [
