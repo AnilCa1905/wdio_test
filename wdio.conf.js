@@ -319,9 +319,10 @@ export const config = {
             await browser.takeScreenshot();
         }
     },
+    
 afterAssertion: async function(params){
 await console.log(params);
-}
+},
     /**
      * Hook that gets executed after the suite has ended
      * @param {Object} suite suite details
