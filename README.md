@@ -15,7 +15,8 @@ Clone the project
 
 ```
 
-git clone https://github.com/testingmavens/ui_automation_template_repository.git
+git clone (
+https://github.com/AnilCa1905/wdio_test.git
 
 ```
 
@@ -53,7 +54,7 @@ To run the workflow from actions tab
 
 ```
 
-Go to the link https://github.com/testingmavens/ui_automation_template_repository.git
+Go to the link https://github.com/AnilCa1905/wdio_test/actions
 
 ```
 
